@@ -1,0 +1,13 @@
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\bin\Debug\netcoreapp3.1\Examen2.exe
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\bin\Debug\netcoreapp3.1\Examen2.deps.json
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\bin\Debug\netcoreapp3.1\Examen2.runtimeconfig.json
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\bin\Debug\netcoreapp3.1\Examen2.runtimeconfig.dev.json
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\bin\Debug\netcoreapp3.1\Examen2.dll
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\bin\Debug\netcoreapp3.1\Examen2.pdb
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.csprojAssemblyReference.cache
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.AssemblyInfoInputs.cache
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.AssemblyInfo.cs
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.dll
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.pdb
+C:\Users\WANDA\source\repos\parcial1\Examen2\Examen2\obj\Debug\netcoreapp3.1\Examen2.genruntimeconfig.cache
